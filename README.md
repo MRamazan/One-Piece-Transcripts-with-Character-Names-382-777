@@ -1,6 +1,7 @@
-# One Piece Transcripts Dataset (Episodes 382–777)
-
 ![One Piece](onepiece.png)
+
+
+# One Piece Transcripts Dataset (Episodes 382–777)
 
 **This dataset contains all dialogue lines from *One Piece* episodes 382 to 777. The data is stored in a CSV file with the following columns:**
 
