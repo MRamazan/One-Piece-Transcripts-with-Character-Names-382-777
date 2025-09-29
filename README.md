@@ -13,7 +13,8 @@
 
 In addition, the dataset includes the original `.sub` subtitle files in the folder named **"One Piece 382-777"**. These files were created by the Yinis Fansub team and are provided separately for users who want to process the raw data themselves.
 
-**Note:** In a few episodes (probably 3), dialogue lines do not have character information. These episodes have not been removed from the dataset (428, 429, 775). Those are probably corrupted files obtained from other fansubs, so they don't have character information.  
+**Note**: In 13 episodes, dialogue lines do not have character information. These episodes have not been removed from the dataset. (382,383,384,386,389,392,393,406,412,413,428,429,775)
+
 
 **Please note that this dataset is intended for educational purposes only and is not for commercial use.**  
 
