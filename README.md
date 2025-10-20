@@ -18,5 +18,5 @@ In addition, the dataset includes the original `.sub` subtitle files in the fold
 
 **Please note that this dataset is intended for educational purposes only and is not for commercial use.**  
 
-You can view the dataset on Kaggle [here](https://www.kaggle.com/datasets/ramazanturann/one-piece-transcripts-with-character-names-382-777).  
+You can view the dataset on Kaggle [here](https://www.kaggle.com/datasets/ramazanturann/one-piece-transcripts-with-character-names-382-777).   
 
